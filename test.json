@@ -71,7 +71,7 @@
             "tvTime": {
                 "name": "Its TV Time!",
                 "artist": "Toby Fox",
-                "startOffset: 0,
+                "startOffset": 0,
                 "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391593096357347358/tv_time.mp3?ex=686c7590&is=686b2410&hm=b0edf7988571239f4fbc3bbb502419dbd2cff3e82e9a21c4ce441b9d33f53f22&",
                 "songs": [5500]
             }
