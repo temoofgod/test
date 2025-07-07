@@ -19,7 +19,7 @@
     },
     "nongs": {
         "hosted": {
-            "e4bffd07-ad8d-5906-a444-c77c7b9ff580": {
+            "imOk": {
               "name": "IM OK",
               "artist": "LITTLE BIG",
               "startOffset": 0,
@@ -32,6 +32,41 @@
               "startOffset": 0,
               "url": "https://cdn.discordapp.com/attachments/1039360959627669524/1039362215972700211/15819.mp3?ex=686bd63e&is=686a84be&hm=9d529e6b1d3abce64204c9eb7da6266d755828f749ff50c9b4e7c149558fc8cd&",
               "songs": [15819]
+            },
+            "faradenza": {
+              "name": "FARADENZA",
+              "artist": "LITTLE BIG",
+              "startOffset": 0,
+              "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391587471904477264/944459.mp3?ex=686c7053&is=686b1ed3&hm=d486a6cb23324f4428b163fda24b4a0b85f76c0e0b8a4a188ccf957711ef0897&",
+              "songs": [944459]
+            },
+            "ultraChurch": {
+              "name": "UltraChurch",
+              "artist": "KEYGEN CHURCH",
+              "startOffset": 0,
+              "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391588330465919058/66666.mp3?ex=686c7120&is=686b1fa0&hm=edd9050509595c22733a25e56e7dbe72e98d0c223b3065e6b3c9c059cc6f79d9&",
+              "songs": [66666]
+            },
+            "genCancellation": {
+              "name": "GENERATION CANCELLATION",
+              "artist": "LITTLE BIG",
+              "startOffset": 0,
+              "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391588786030248019/62422.mp3?ex=686c718d&is=686b200d&hm=75f7f4f228a290febf66a6bdb3dc5fb034e5d8d03508eae57f3138922cfe60c6&",
+              "songs": [62422]
+            },
+            "tovh": {
+              "name": "Using A Coffee Maker To Boil Hotdogs",
+              "artist": "Graham Kartna",
+              "startOffset": 0,
+              "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391589305020973139/853657.mp3?ex=686c7208&is=686b2088&hm=1783450a6c33e7984851d0bf301e72bddff4b4d95fb68ccef674d91d4fa46504&",
+              "songs": [853657]
+            },
+            "xnor": {
+              "name": "XNOR XNOR XNOR",
+              "artist": "Frums",
+              "startOffset": 0,
+              "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391589576384188426/7777777.mp3?ex=686c7249&is=686b20c9&hm=112112425424b51ee84090cff289ba601ed221223b0f4cb6335514936f939f99&",
+              "songs": [7777777]
             }
         }
     }
