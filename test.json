@@ -1,0 +1,31 @@
+{
+    "manifest": 1,
+    "name": "test",
+    "id": "temoofgod-test",
+    "description": "hi",
+    "lastUpdate": 1751843678,
+    "links": {
+        "discord": "https://discord.gg/Gb3hajtcQ8"
+    },
+    "features": {
+        "submit": {
+            "supportedSongTypes": ["hosted"],
+            "preSubmitMessage": "HELLO",
+            "requestParams": {
+                "url": "https://github.com/temoofgod/test/issues/new",
+                "params": true
+            }
+        }
+    },
+    "nongs": {
+        "hosted": {
+            "idk": {
+              "name": "I'M OK",
+              "artist": "LITTLE BIG",
+              "startOffset": 0,
+              "url": "https://cdn.discordapp.com/attachments/1039360959627669524/1039362117830189128/434561.mp3?ex=686bd627&is=686a84a7&hm=250b83e42c31714f252424b6e181eaed73f150a026fc645cb37fccacf07f0dec&",
+              "songs": [434561]
+            }
+        }
+    }
+}
