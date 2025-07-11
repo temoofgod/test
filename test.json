@@ -81,6 +81,13 @@
                 "startOffset": 0,
                 "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1391728267441999963/they_not_like_us.mp3?ex=686cf374&is=686ba1f4&hm=8486643b762465e256175659f1ad5b655cd3c1c832a6c030ee80486da7d26ea2&",
                 "songs": [30]
+            },
+            "myHopeWillNeverDie": {
+                "name": "I Keep Holding On",
+                "artist": "Dr",
+                "startOffset": 0,
+                "url": "https://cdn.discordapp.com/attachments/1391587032400265316/1393157479268880464/649039.mp3?ex=68722682&is=6870d502&hm=b4189da22d99df824a814438a93b1f7ce13d07ea40deed498a1268d4188eeefc&",
+                "songs": [649039]
             }
         }
     }
