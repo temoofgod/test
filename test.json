@@ -88,6 +88,125 @@
                 "startOffset": 0,
                 "url": "https://drive.google.com/uc?export=download&id=1oanVgo0gGa-9BsyQvUm0flbqPe4kOK2d",
                 "songs": [649039]
+            },
+            "gaggatrondraIfItWasGood": {
+                "name": "gaggatrondra if it was good",
+                "artist": "idk",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1d0hd6MxumJnF6BfCBkETg_wUqN8pAY6k",
+                "songs": [780537]
+            },
+            "deimustard": {
+                "name": "DEIMUSTARD (Deimos x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1fYHSUUmDloDKbn2Bziq1Kax6r22WA4vJ",
+                "songs": [830628]
+            },
+            "griefMustard": {
+                "name": "GRIEFARD (Grief x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1x190bee7XZK5DjCgwEqxm8Y-CeY3YGiX",
+                "songs": [482872]
+            },
+            "mustardGoodman": {
+                "name": "MUSTARD GOODMAN (Saul Goodman x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1jWPfcdg1w35aCKTKZiNKRUf11CAT05LS",
+                "songs": [462370]
+            },
+            "mustardInterface": {
+                "name": "MUSTARD INTERFACE (Omega Interface x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1LUU1nzRrx86Sme-M81dLEO0XxeF9SIjY",
+                "songs": [1026438]
+            },
+            "mustardLevel": {
+                "name": "MUSTARD LEVEL (troll level x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1aKPYqt1hV3GK_y-ihaAB9jOx9VcPi6Z7",
+                "songs": [500706]
+            },
+            "mustardSignal": {
+                "name": "MUSTARD SIGNAL (Broken Signal x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1wbQY_4CEZOBnuHsZ6ArqkhzZ1IX6g8fA",
+                "songs": [975213]
+            },
+            "mustardTrip": {
+                "name": "MUSTARD TRIP (Worse Trip x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1F95hOS9SUu22zbGkYsfmLRBi3CdJdFTE",
+                "songs": [905109]
+            },
+            "mustardVortex": {
+                "name": "MUSTARD VORTEX (Bausha Vortex x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1zE8ttX_IpUJvVf6TWrYYkIsdV52DHsXh",
+                "songs": [433947]
+            },
+            "mustardbreaker": {
+                "name": "MUSTARDBREAKER (WaveBreaker x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=104nOwhWTkD4zUenIJF0Y6luxOOXuyYoB",
+                "songs": [649922]
+            },
+            "mustardknown": {
+                "name": "MUSTARDKNOWN (UNKNOWN x tv off)",
+                "artist": "artist",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1LPMOfZVX4XaMbrZOQL8ZrLITQmfR4e5b",
+                "songs": [1131108]
+            },
+            "mustardnight": {
+                "name": "MUSTARDNIGHT (Midnight x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1qfb72NKZ0mZ0SM7wbcQvb2fkICnp4RTR",
+                "songs": [1260013]
+            },
+            "mustardnition": {
+                "name": "MUSTARDNITION (Cognition x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=18K01syVFXjTWZOarb27ytH1ngZzpmKd5",
+                "songs": [412437]
+            },
+            "mustardreta": {
+                "name": "MUSTARDRETA (Wasureta x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1Zh1A-6_o9O2p-XXgu92PltDFHJ0VqPU4",
+                "songs": [509162]
+            },
+            "musteron": {
+                "name": "MUSTERON (Acheron x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=15lcFq0Fh9ju0j3J_IxvL2FP_GobBPRXB",
+                "songs": [770520]
+            },
+            "musthelv": {
+                "name": "MUSTHELV (Nhelv x tv off)",
+                "artist": "Timy",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1ZA0K6AcQ5x7RqrVoIG5L_RtN8vefiaUF",
+                "songs": [812038]
+            },
+            "template": {
+                "name": "template",
+                "artist": "artist",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=",
+                "songs": [1]
             }
         }
     }
