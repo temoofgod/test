@@ -208,13 +208,20 @@
                 "url": "https://drive.google.com/uc?export=download&id=1bF1uj2Q_TQY5lXO8BC6WjKGmoEhi3T0S",
                 "songs": [360804]
             },
+            "guardian": {
+                "name": "GUARDIAN",
+                "artist": "Toby Fox",
+                "startOffset": 0,
+                "url": "https://drive.google.com/uc?export=download&id=1U3lE82zDxxBMLKMqEs4jWmJEW8uaoJ1V",
+                "songs": [91919]
+            },
             "template": {
                 "name": "template",
                 "artist": "artist",
                 "startOffset": 0,
                 "url": "https://drive.google.com/uc?export=download&id=",
                 "songs": [1]
-            }
+            },
         }
     }
 }
