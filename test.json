@@ -18,6 +18,7 @@
         }
     },
     "nongs": {
+        "youtube":{},
         "hosted": {
             "imOk": {
                 "name": "IM OK",
@@ -250,7 +251,8 @@
                 "url": "https://drive.google.com/uc?export=download&id=",
                 "songs": [1],
                 "verifiedLevelIDs": []
-            },
+            }
         }
     }
 }
+            
