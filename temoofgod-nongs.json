@@ -1,0 +1,319 @@
+{
+  "manifest": 1,
+  "name": "temoofgod nongs",
+  "id": "temoofgod-nongs",
+  "description": "hi",
+  "lastUpdate": 1786253243,
+  "links": {
+    "discord": "https://discord.gg/Gb3hajtcQ8"
+  },
+  "features": {
+    "submit": {
+      "supportedSongTypes": [
+        "hosted"
+      ],
+      "preSubmitMessage": "HELLO",
+      "requestParams": {
+        "url": "https://github.com/temoofgod/test/issues/new",
+        "params": true
+      }
+    }
+  },
+  "nongs": {
+    "youtube": {},
+    "hosted": {
+      "a7b137e0-a8c3-5b7f-819f-e845d94803e9": {
+        "name": "BIG DICK",
+        "artist": "LITTLE BIG",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1EpxDltX5KTe97ImyuJ_RDXVq1tILdZvw",
+        "songs": [
+          15819
+        ],
+        "verifiedLevelIDs": []
+      },
+      "96015617-1a83-531f-901e-33a6d873ca64": {
+        "name": "IM OK",
+        "artist": "LITTLE BIG",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=19Py2PgJ5gKD-5u3EvWg-KewqzJOnkwQr",
+        "songs": [
+          434561
+        ],
+        "verifiedLevelIDs": [
+          80651863
+        ]
+      },
+      "8bf51a7a-7b5d-553b-9a44-d009bea512a7": {
+        "name": "FARADENZA",
+        "artist": "LITTLE BIG",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1WRq1nd1goiA5pVtso2pcG3LV-9oXgvF-",
+        "songs": [
+          944459
+        ],
+        "verifiedLevelIDs": []
+      },
+      "e15245d3-54d4-5ed2-a220-84f153f955e8": {
+        "name": "UltraChurch",
+        "artist": "KEYGEN CHURCH",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1-wrNWl0mUwXXPM_iQftcYvjwiBLGn2Yq",
+        "songs": [
+          66666
+        ],
+        "verifiedLevelIDs": []
+      },
+      "d2f2c44d-55a5-57f1-a990-59bbcdda700e": {
+        "name": "GENERATION CANCELLATION",
+        "artist": "LITTLE BIG",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1fClVROL2S1FW71Hag5mBLyKdROjdDjuL",
+        "songs": [
+          62422
+        ],
+        "verifiedLevelIDs": []
+      },
+      "a25fd2e7-2e09-537f-8827-9b1e1ddb2e7c": {
+        "name": "Using A Coffee Maker To Boil Hotdogs",
+        "artist": "Graham Kartna",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1BW9_5ymTgH-UfxvRMQ8xd4cOm6ivG7N-",
+        "songs": [
+          853657
+        ],
+        "verifiedLevelIDs": []
+      },
+      "94de1b57-6b76-5d01-b45c-1eb53109631b": {
+        "name": "XNOR XNOR XNOR",
+        "artist": "Frums",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=16tD7mMQ6gSh2MsmOAwvNZHFg1qS49ewu",
+        "songs": [
+          7777777
+        ],
+        "verifiedLevelIDs": []
+      },
+      "4f5780ba-385e-550a-9097-6e35c3032499": {
+        "name": "Its TV Time!",
+        "artist": "Toby Fox",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1ZO_aoqGaBZsNiyp-n9yWYybsVOXr0i0U",
+        "songs": [
+          5500
+        ],
+        "verifiedLevelIDs": []
+      },
+      "1358ebd6-aff5-5e57-ac45-df98c2d2cc09": {
+        "name": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1jw854-tw7klUhU0ZnNriBLwR9q2Jpey6",
+        "songs": [
+          30
+        ],
+        "verifiedLevelIDs": []
+      },
+      "94a05ff9-118d-599e-8fc7-11231a956c1a": {
+        "name": "I Keep Holding On",
+        "artist": "Dr",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1oanVgo0gGa-9BsyQvUm0flbqPe4kOK2d",
+        "songs": [
+          649039
+        ],
+        "verifiedLevelIDs": []
+      },
+      "ffb8696e-6cb5-5967-a76d-5cc0cb9e6314": {
+        "name": "gaggatrondra if it was good",
+        "artist": "idk",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1d0hd6MxumJnF6BfCBkETg_wUqN8pAY6k",
+        "songs": [
+          780537
+        ],
+        "verifiedLevelIDs": []
+      },
+      "588370fb-dc2e-5fa6-837d-4b9949bed456": {
+        "name": "DEIMUSTARD (Deimos x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1fYHSUUmDloDKbn2Bziq1Kax6r22WA4vJ",
+        "songs": [
+          830628
+        ],
+        "verifiedLevelIDs": []
+      },
+      "76f469cd-3f3b-5faa-9927-319cfe218654": {
+        "name": "GRIEFARD (Grief x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1x190bee7XZK5DjCgwEqxm8Y-CeY3YGiX",
+        "songs": [
+          482872
+        ],
+        "verifiedLevelIDs": []
+      },
+      "9fb16297-6c13-5556-8a5a-a64195133a13": {
+        "name": "MUSTARD GOODMAN (Saul Goodman x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1jWPfcdg1w35aCKTKZiNKRUf11CAT05LS",
+        "songs": [
+          462370
+        ],
+        "verifiedLevelIDs": []
+      },
+      "9cb04474-5596-568a-8b85-d7376c5156de": {
+        "name": "MUSTARD INTERFACE (Omega Interface x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1LUU1nzRrx86Sme-M81dLEO0XxeF9SIjY",
+        "songs": [
+          1026438
+        ],
+        "verifiedLevelIDs": []
+      },
+      "13b95db7-616d-5d73-914a-2aec5ae8a31a": {
+        "name": "MUSTARD LEVEL (troll level x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1aKPYqt1hV3GK_y-ihaAB9jOx9VcPi6Z7",
+        "songs": [
+          500706
+        ],
+        "verifiedLevelIDs": []
+      },
+      "dd9dddf5-b1ba-565e-8f6e-d4c55a5daaf4": {
+        "name": "MUSTARD SIGNAL (Broken Signal x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1wbQY_4CEZOBnuHsZ6ArqkhzZ1IX6g8fA",
+        "songs": [
+          975213
+        ],
+        "verifiedLevelIDs": []
+      },
+      "7174bf7e-83cd-5a49-91b9-7b2f9df06df1": {
+        "name": "MUSTARD TRIP (Worse Trip x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1F95hOS9SUu22zbGkYsfmLRBi3CdJdFTE",
+        "songs": [
+          905109
+        ],
+        "verifiedLevelIDs": []
+      },
+      "0ecea824-439e-52b0-afaf-0ef18bc6e011": {
+        "name": "MUSTARD VORTEX (Bausha Vortex x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1zE8ttX_IpUJvVf6TWrYYkIsdV52DHsXh",
+        "songs": [
+          433947
+        ],
+        "verifiedLevelIDs": []
+      },
+      "2221ca80-f2c2-521e-a840-40d12edf35e9": {
+        "name": "MUSTARDBREAKER (WaveBreaker x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=104nOwhWTkD4zUenIJF0Y6luxOOXuyYoB",
+        "songs": [
+          649922
+        ],
+        "verifiedLevelIDs": []
+      },
+      "1f0d9119-390d-5dd8-8bc5-ffb085292863": {
+        "name": "MUSTARDKNOWN (UNKNOWN x tv off)",
+        "artist": "artist",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1LPMOfZVX4XaMbrZOQL8ZrLITQmfR4e5b",
+        "songs": [
+          1131108
+        ],
+        "verifiedLevelIDs": []
+      },
+      "aad3bc93-aae9-5a74-ade7-26acaf795161": {
+        "name": "MUSTARDNIGHT (Midnight x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1qfb72NKZ0mZ0SM7wbcQvb2fkICnp4RTR",
+        "songs": [
+          1260013
+        ],
+        "verifiedLevelIDs": []
+      },
+      "4b285c44-a9dd-5e0e-ac7b-4141b2f55611": {
+        "name": "MUSTARDNITION (Cognition x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=18K01syVFXjTWZOarb27ytH1ngZzpmKd5",
+        "songs": [
+          412437
+        ],
+        "verifiedLevelIDs": []
+      },
+      "5aae346d-e0cb-51f8-915f-a2aeffb33445": {
+        "name": "MUSTARDRETA (Wasureta x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1Zh1A-6_o9O2p-XXgu92PltDFHJ0VqPU4",
+        "songs": [
+          509162
+        ],
+        "verifiedLevelIDs": []
+      },
+      "598bead5-31bf-53d0-b7f9-378968159679": {
+        "name": "MUSTERON (Acheron x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=15lcFq0Fh9ju0j3J_IxvL2FP_GobBPRXB",
+        "songs": [
+          770520
+        ],
+        "verifiedLevelIDs": []
+      },
+      "4795ba75-a18e-572d-bc3a-97f94371daef": {
+        "name": "MUSTHELV (Nhelv x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1ZA0K6AcQ5x7RqrVoIG5L_RtN8vefiaUF",
+        "songs": [
+          812038
+        ],
+        "verifiedLevelIDs": []
+      },
+      "4eb1e20d-840d-53a4-8522-ac25b9486dd4": {
+        "name": "SAKUPEN MUSTARD (Sakupen Circles x tv off)",
+        "artist": "Timy",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1bF1uj2Q_TQY5lXO8BC6WjKGmoEhi3T0S",
+        "songs": [
+          360804
+        ],
+        "verifiedLevelIDs": []
+      },
+      "36e8d90d-2622-5635-aac1-2ac3a6bd747b": {
+        "name": "GUARDIAN",
+        "artist": "Toby Fox",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=1U3lE82zDxxBMLKMqEs4jWmJEW8uaoJ1V",
+        "songs": [
+          91919
+        ],
+        "verifiedLevelIDs": []
+      },
+      "8d18b06e-2398-5c89-b269-eda5e8cab82c": {
+        "name": "template",
+        "artist": "artist",
+        "startOffset": 0,
+        "url": "https://drive.google.com/uc?export=download&id=",
+        "songs": [
+          1
+        ],
+        "verifiedLevelIDs": []
+      }
+    }
+  }
+}
